@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here.. Please read it! So we can be friends!! </h2>
-<h2> AKHIRNYA SHOLAT ASHAR!! </h2>
+<h2> AKHIRNYA SHOLAT ASHAR!! KETEMU LAGI!</h2>
